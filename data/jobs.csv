@@ -1,0 +1,21 @@
+job_id,company_id,title,department,posted_date,employment_type,salary_range
+1,3,Senior Data Analyst,Operations,2026-05-07,Contract,$110k-$130k
+2,5,Business Intelligence Analyst,Operations,2026-04-26,Part-time,$90k-$110k
+3,6,Data Analytics Consultant,Finance,2026-05-03,Contract,$110k-$130k
+4,4,Marketing Analytics Specialist,Product,2026-04-27,Full-time,$90k-$110k
+5,10,Revenue Operations Analyst,Product,2026-04-23,Contract,$90k-$110k
+6,9,Customer Insights Analyst,Analytics,2026-04-20,Part-time,$110k-$130k
+7,9,Operations Data Analyst,Analytics,2026-05-03,Full-time,$70k-$90k
+8,9,Financial Data Analyst,Finance,2026-04-08,Contract,$110k-$130k
+9,9,Product Analytics Manager,Operations,2026-05-24,Contract,$110k-$130k
+10,9,Reporting Analyst,Business Intelligence,2026-05-04,Contract,$90k-$110k
+11,8,Growth Analytics Analyst,Operations,2026-04-21,Full-time,$110k-$130k
+12,6,Pricing Data Analyst,Finance,2026-05-15,Contract,$110k-$130k
+13,4,Supply Chain Analyst,Product,2026-05-16,Full-time,$70k-$90k
+14,4,Data Visualization Specialist,Business Intelligence,2026-05-06,Full-time,$110k-$130k
+15,3,Strategy Analytics Analyst,Product,2026-05-26,Full-time,$70k-$90k
+16,7,Risk Analytics Analyst,Analytics,2026-05-29,Part-time,$110k-$130k
+17,8,Research Data Analyst,Product,2026-04-24,Contract,$110k-$130k
+18,8,Quality Analytics Analyst,Marketing,2026-05-06,Part-time,$110k-$130k
+19,2,Sales Performance Analyst,Finance,2026-04-13,Part-time,$90k-$110k
+20,8,Retention Analytics Analyst,Finance,2026-04-02,Full-time,$110k-$130k

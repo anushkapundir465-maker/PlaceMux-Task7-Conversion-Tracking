@@ -1,0 +1,51 @@
+candidate_id,full_name,experience_years,skill_primary,location,profile_score
+1,Peyton Parker,1,Python,"Dallas, TX",80
+2,Morgan Adams,6,SQL,Remote,71
+3,Blake Wright,4,Data Modeling,"Boston, MA",68
+4,Noah Reed,10,Statistics,Remote,60
+5,Jordan Parker,8,Power BI,"New York, NY",92
+6,Dylan Garcia,2,Looker,"Chicago, IL",79
+7,Peyton Turner,9,Looker,"Dallas, TX",81
+8,Elliot Owens,11,Tableau,"Dallas, TX",65
+9,Riley Carter,6,Power BI,"Seattle, WA",92
+10,Zoe Evans,3,Power BI,"Dallas, TX",63
+11,Riley Kim,5,Python,"New York, NY",88
+12,Sawyer Reed,9,SQL,"Dallas, TX",64
+13,Finley Jackson,5,SQL,"Boston, MA",67
+14,Sawyer Lopez,8,SQL,"New York, NY",63
+15,Hayden Lopez,5,Statistics,"Dallas, TX",60
+16,Peyton Nguyen,3,Looker,"Chicago, IL",96
+17,Wesley Kim,2,Statistics,"Dallas, TX",70
+18,Quinn Reed,12,Machine Learning,"New York, NY",71
+19,Avery Turner,6,Machine Learning,"New York, NY",65
+20,Finley Turner,10,Tableau,Remote,70
+21,Jordan Nguyen,2,Machine Learning,"Chicago, IL",87
+22,Camila Lopez,11,SQL,"Seattle, WA",80
+23,Quinn Wright,10,Python,"Dallas, TX",81
+24,Quinn Parker,3,Machine Learning,"Dallas, TX",63
+25,Avery Evans,9,Excel,"New York, NY",85
+26,Blake Lopez,9,R,"Boston, MA",61
+27,Elliot Brooks,6,Tableau,"New York, NY",76
+28,Riley Adams,6,Python,"Seattle, WA",76
+29,Levi Morris,8,SQL,"Austin, TX",97
+30,Hayden Shelton,11,Statistics,"Austin, TX",82
+31,Blake Hughes,10,Tableau,"New York, NY",92
+32,Dylan Turner,4,Data Modeling,Remote,85
+33,Morgan Garcia,4,R,Remote,75
+34,Sawyer Morris,2,SQL,"Boston, MA",70
+35,Dylan Garcia,2,Python,"Seattle, WA",90
+36,Blake Owens,2,Machine Learning,"New York, NY",96
+37,Dylan Nguyen,1,Looker,"Dallas, TX",79
+38,Zoe Wright,1,Machine Learning,Remote,75
+39,Camila Brooks,2,Excel,"New York, NY",67
+40,Hayden Morris,11,Statistics,"Dallas, TX",94
+41,Sawyer Jackson,9,Excel,"Dallas, TX",69
+42,Quinn Parker,7,Statistics,Remote,82
+43,Kai Wright,7,R,"Seattle, WA",66
+44,Camila Ibrahim,3,Machine Learning,Remote,97
+45,Vivian Hughes,3,Python,"Seattle, WA",98
+46,Kai Owens,5,Power BI,"Boston, MA",83
+47,Wesley Hughes,12,Python,"Seattle, WA",71
+48,Levi Brooks,6,Excel,Remote,76
+49,Avery Parker,1,Data Modeling,"Chicago, IL",97
+50,Levi Lopez,8,Looker,"Seattle, WA",62

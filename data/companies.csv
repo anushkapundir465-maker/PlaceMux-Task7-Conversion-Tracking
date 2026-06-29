@@ -1,0 +1,11 @@
+company_id,name,industry,size,location
+1,DataScope,Healthcare,501-1000,"New York, NY"
+2,Insightica,Finance,51-200,"San Francisco, CA"
+3,MetricWave,Retail,11-50,"Austin, TX"
+4,Trendlytics,Technology,501-1000,"Chicago, IL"
+5,Vizionary,Education,201-500,"Boston, MA"
+6,AnalyzeHub,Logistics,201-500,"Seattle, WA"
+7,SignalCraft,Advertising,51-200,"Denver, CO"
+8,PulseData,Consulting,11-50,"Atlanta, GA"
+9,Chartful,Telecom,501-1000,"Miami, FL"
+10,QueryGrid,Energy,11-50,"Los Angeles, CA"
